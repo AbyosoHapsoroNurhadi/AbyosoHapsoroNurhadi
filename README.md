@@ -56,7 +56,6 @@ My vision is a life as a 90% remote worker, 99% researcher, and 100% family man.
 ---
 
 ### 🌐 Let's Connect!
-- 🌍 [Portfolio Website](https://abyoso-hapsoro.github.io/)
 - 🔗 [LinkedIn Profile](https://www.linkedin.com/in/abyoso-hapsoro/)
 
 *Feel free to reach out if you're interested in AI, Research, or International Collaborations!*
